@@ -6,4 +6,4 @@
 ls
 
 #listando o diretorio local detalhado
-ls-
+ls-lh
